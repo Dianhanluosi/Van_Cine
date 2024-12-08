@@ -5,3 +5,5 @@ Content/Wild_West/Sky/TC_08-08_Sunset_D.uasset filter=lfs diff=lfs merge=lfs -te
 Content/Wild_West/Textures/Cliff/T_CliffSharp_basecolor.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Wild_West/Textures/Cliffs/T_CliffSharp_normal.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Wild_West/Textures/Cliff/T_CliffSharp_normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Wild_West/Textures/Sandstone/T_Sandstone_Cliff_normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Wild_West/Textures/Sandstone/T_Sandstone_Cliff_basecolor.uasset filter=lfs diff=lfs merge=lfs -text
