@@ -1,1 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
+Content/Wild_West/Maps/Showcase_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Wild_West/Maps/WildWest_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Wild_West/Sky/TC_08-08_Sunset_D.uasset filter=lfs diff=lfs merge=lfs -text
